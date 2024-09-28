@@ -24,3 +24,4 @@
 
 
 ![namkikim's GitHub stats](https://github-readme-stats.vercel.app/api?username=namkikim0718&show_icons=true&theme=radical)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=k4273ng)](https://solved.ac/k4273ng/)
